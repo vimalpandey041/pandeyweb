@@ -1,0 +1,63 @@
+.sh h2{
+    color: orange;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 50px;
+}
+.services h2{
+    margin-left: 20px;
+}
+
+.service-box{
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    margin: 15px;
+    margin-top: 25px;  
+    overflow-y: hidden;
+}
+.services h2{
+    color: blue;
+    font-size: 40px;
+}
+.box-1{
+    margin: 10px;
+    border-radius: 12px;
+    background-color: #fff;
+    box-shadow: 0px 0px 15px 0px;
+    height: 450px;
+    overflow-y: hidden;
+}
+.box-1 img{
+    height: 250px;
+    width: 430px;
+    object-fit:fill;
+}
+.service-box h4{
+text-align: center;
+margin-top: 20px;
+font-size: 40px;
+}
+.service-box button{
+    margin-top: 50px;
+    padding: 20px 40px;
+    border-radius: 20px;
+}
+.service-box button:hover{
+    background-color: black;
+    color: yellow;
+    font-size: 18px;
+}
+.heading h2{
+    color: blue;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 50px;
+}
+#red{
+    color: rgb(167, 24, 224);
+}

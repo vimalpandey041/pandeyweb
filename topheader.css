@@ -1,0 +1,65 @@
+.topheader{
+    border: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: rgb(2,3,129);
+    flex-wrap: wrap;
+    z-index: -1;
+}
+.login-register{
+    color: white;
+
+}
+.contacts-topheader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.whatsapp a{
+color: white;
+text-decoration: none;
+padding-right: 45px;
+}
+.whatsapp{
+display: flex;
+}
+.whatsapp img{
+padding-right: 15px;
+}
+.mobile-number{
+    display: flex;
+}
+.mobile-number a{
+color: white;
+text-decoration: none;
+padding-right: 45px;
+}
+.mobile-number img{
+padding-right: 15px;
+}
+.email-support{
+display: flex;
+}
+.email-support a{
+color: white;
+text-decoration: none;
+padding-right: 45px;
+}
+.email-support img{
+padding-right:15px ;
+}
+.socialmedia{
+    display: flex;
+    padding-right: 65px;
+    height: 25px;
+    width: 25px;
+}
+#social-1{
+    padding-right: 15px;
+}
+#social-2{
+    padding-right: 15px;
+}
